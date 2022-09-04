@@ -130,6 +130,7 @@ yapf==0.32.0
 yarl==1.8.1
 zc.lockfile==2.0
 zipp==3.8.1
+joblib==1.4.0
 
 # local setup installation
 -e .
