@@ -137,3 +137,5 @@ research
 # ignore the secrets file
 config/secrets.yaml
 /data
+
+artifacts/callbacks
